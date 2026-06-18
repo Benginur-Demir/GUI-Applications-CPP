@@ -18,7 +18,7 @@ Bu proje, C++ ve Qt framework kullanılarak geliştirilmiş, Nesne Yönelimli Pr
 
 ## 📸 Ekran Görüntüsü
 
-![Oyun Ekran Görüntüsü](oyun_goruntusu_linki_buraya_gelecek.jpg)
+![Oyun Ekran Görüntüsü](oyun_ekrani.jpg)
 
 ## 💻 Kurulum ve Çalıştırma
 
