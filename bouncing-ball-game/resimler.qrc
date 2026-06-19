@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>top.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>patlama.png</file>
+    </qresource>
+</RCC>
