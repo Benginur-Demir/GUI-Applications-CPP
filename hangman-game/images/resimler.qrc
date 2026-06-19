@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resim">
+        <file>cember.png</file>
+        <file>dikCizgi.png</file>
+        <file>sag.png</file>
+        <file>sol.png</file>
+        <file>yatayCizgi.png</file>
+    </qresource>
+</RCC>
